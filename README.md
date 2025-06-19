@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento do Programa de Integridade
 
-Sistema web full stack para gestão de programas de integridade, com foco em ações estratégicas, pilares, notificações e relatórios.
+Sistema web full stack para gestão de programas de integridade, com foco no acompanhamento das ações estratégicas, pilares, atividades e relatórios.
 
 ## Tecnologias Utilizadas
 - Frontend: React + TailwindCSS
@@ -11,7 +11,6 @@ Sistema web full stack para gestão de programas de integridade, com foco em aç
 - Cadastro e edição de pilares
 - Ações estratégicas com etapas, prazos e responsáveis
 - Controle de acesso por papel (Analista, Coordenador, Gestor)
-- Notificações automáticas por prazo
 - Geração de relatórios (PDF, Excel, Word)
 - Dashboard com indicadores e resumo visual
 
